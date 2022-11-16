@@ -1,0 +1,11 @@
+[METAINFO]
+url: https://youtu.be/S3vioYwsSiU
+begin: 00:08:34
+end: 00:09:01
+anno_fps: 10Hz
+object_class: world cup
+motion_class: football
+major_class: others
+root_class: others
+motion_adverb: unknown
+resolution: (1280, 720)
